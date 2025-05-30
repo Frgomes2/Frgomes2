@@ -47,7 +47,7 @@
 
 ### 📫 Onde me encontrar
 
-- 🌐 Portfólio: [frsystem.dev](https://frsystem.dev) *(ajustar caso ainda não esteja pronto)*
+- 🌐 Portfólio: [frsystem.dev](https://frsystem.dev) *(Fora do ar No momento)*
 - 💼 LinkedIn: [linkedin.com/in/flavioraphael]([https://linkedin.com/in/flavioraphael](https://www.linkedin.com/in/flavio-raphael-gomes-405847182/pt?originalSubdomain=br))
 - 📬 Email: flavio.raphael@email.com.br
 
