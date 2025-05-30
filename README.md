@@ -1,12 +1,58 @@
-### 👋 Olá! Eu sou o Flavio Raphael Gomes
+<h1 align="center">👋 Olá! Eu sou o Flavio Raphael Gomes</h1>
 
-💻 Desenvolvedor backend | PHP • Ruby on Rails • Python  
-🚀 Apaixonado por automação, bots e sistemas web  
-🎮 RPGista nas horas vagas e criador de universos próprios  
-📦 Projetos ativos: sistema GDM, jogo educacional Lingo World e bot Pokémon da Twitch  
+<p align="center">
+  💻 Desenvolvedor Full Stack | PHP • Ruby on Rails • Python • JavaScript <br>
+  🚍 Especialista em sistemas para indústrias
+  🔧 Apaixonado por projetos open source, automação, RPG e animes<br>
+  🎸 Músico nas horas vagas e entusiasta de tecnologia retrô<br>
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Frgomes2&theme=dark)](https://git.io/streak-stats)
+---
 
-📫 Entre em contato comigo:
-- Email: flavio.raphael@email.com.br
-- LinkedIn: [linkedin.com/in/flavioraphael](https://linkedin.com/in/flavioraphael)
+### 👨‍💻 Sobre mim
+
+- 🧪 Experiência com testes, API REST, background jobs e integração com bancos PostgreSQL/MySQL
+- 🌐 Hospedagem de apps em **Heroku**, **Render** e integração com **Twitch + bots**
+- 🧩 Organizador nato: usa arquitetura com ScriptableObjects em jogos Unity e Rails Services nos sistemas
+- 🔥 Criei um jogo educativo 2D chamado **Lingo World** com foco em ensino de idiomas
+- ⚙️ Trabalha com sistemas de controle de produção, geração de relatórios com ApexCharts/Highcharts, e muito mais
+
+---
+
+### ⚙️ Tecnologias e Ferramentas
+
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000?style=flat&logo=unity&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap)
+
+---
+
+### 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Frgomes2&theme=dark" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Frgomes2&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+### 📫 Onde me encontrar
+
+- 🌐 Portfólio: [frsystem.dev](https://frsystem.dev) *(ajustar caso ainda não esteja pronto)*
+- 💼 LinkedIn: [linkedin.com/in/flavioraphael]([https://linkedin.com/in/flavioraphael](https://www.linkedin.com/in/flavio-raphael-gomes-405847182/pt?originalSubdomain=br))
+- 📬 Email: flavio.raphael@email.com.br
+
+---
+
+<p align="center">
+  🚀 Desde 2023 desenvolvendo com paixão — Rumo ao topo em 2025!
+</p>
