@@ -54,5 +54,5 @@
 ---
 
 <p align="center">
-  🚀 Desde 2023 desenvolvendo com paixão — Rumo ao topo em 2025!
+  🚀 Desde 2021 desenvolvendo com paixão — Rumo ao topo em 2025!
 </p>
