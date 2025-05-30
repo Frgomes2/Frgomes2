@@ -43,6 +43,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Frgomes2&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
+🧠 Linguagens Mais Utilizadas
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frgomes2&layout=compact&theme=radical" alt="Top Languages" /> </p>
+
 ---
 
 ### 📫 Onde me encontrar
