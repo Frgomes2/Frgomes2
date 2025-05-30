@@ -27,7 +27,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000?style=flat&logo=unity&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-E44D26?style=flat&logo=codeigniter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery)
