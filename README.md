@@ -4,7 +4,7 @@
   💻 Desenvolvedor Full Stack | PHP • Ruby on Rails • Python • JavaScript <br>
   🚍 Especialista em sistemas para indústrias
   🔧 Apaixonado por projetos open source, automação, RPG e animes<br>
-  🎸 Músico nas horas vagas e entusiasta de tecnologia retrô<br>
+  🎸 Músico nas horas vagas e entusiasta de tecnologia e jogos retrô<br>
 </p>
 
 ---
@@ -12,10 +12,8 @@
 ### 👨‍💻 Sobre mim
 
 - 🧪 Experiência com testes, API REST, background jobs e integração com bancos PostgreSQL/MySQL
-- 🌐 Hospedagem de apps em **Heroku**, **Render** e integração com **Twitch + bots**
-- 🧩 Organizador nato: usa arquitetura com ScriptableObjects em jogos Unity e Rails Services nos sistemas
-- 🔥 Criei um jogo educativo 2D chamado **Lingo World** com foco em ensino de idiomas
-- ⚙️ Trabalha com sistemas de controle de produção, geração de relatórios com ApexCharts/Highcharts, e muito mais
+- 🌐 Hospedagem de apps em **nfinityFree**,**nfinityFree**, **Heroku**, **Render** e integração com **Twitch + bots**
+- ⚙️ Trabalha com sistemas de controle de produção, geração de relatórios, e muito mais..
 
 ---
 
@@ -51,7 +49,7 @@
 
 - 🌐 Portfólio: [frsystem.dev](https://frsystem.dev) *(Fora do ar No momento)*
 - 💼 LinkedIn: [linkedin.com/in/flavioraphael]([https://linkedin.com/in/flavioraphael](https://www.linkedin.com/in/flavio-raphael-gomes-405847182/pt?originalSubdomain=br))
-- 📬 Email: flavio.raphael@email.com.br
+- 📬 Email: flavio.raphael@msn.com.br
 
 ---
 
