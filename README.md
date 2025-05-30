@@ -37,14 +37,18 @@
 
 ### 📈 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Frgomes2&theme=dark" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Frgomes2&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 450px; height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frgomes2&layout=compact&theme=radical" alt="Top Languages" style="width: 450px; height: 200px;" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Frgomes2&show_icons=true&theme=radical" width="420"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frgomes2&layout=compact&theme=radical" width="420"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
