@@ -42,10 +42,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Frgomes2&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frgomes2&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Frgomes2&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 420px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frgomes2&layout=compact&theme=radical" alt="Top Languages" style="width: 420px;" />
 </p>
-
 ---
 
 ### 📫 Onde me encontrar
