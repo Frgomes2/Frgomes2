@@ -12,7 +12,7 @@
 ### 👨‍💻 Sobre mim
 
 - 🧪 Experiência com testes, API REST, background jobs e integração com bancos PostgreSQL/MySQL
-- 🌐 Hospedagem de apps em **nfinityFree**,**nfinityFree**, **Heroku**, **Render** e integração com **Twitch + bots**
+- 🌐 Hospedagem de apps em **InfinityFree**,**Hostoo**,**hostinger**, **Heroku**, **Render** e integração com **Twitch + bots**
 - ⚙️ Trabalha com sistemas de controle de produção, geração de relatórios, e muito mais..
 
 ---
