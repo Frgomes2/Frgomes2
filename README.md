@@ -4,7 +4,7 @@
   💻 Desenvolvedor Full Stack | PHP • Ruby on Rails • Python • JavaScript <br>
   🚍 Especialista em sistemas para indústrias
   🔧 Apaixonado por projetos open source, automação, RPG e animes<br>
-  🎸 Músico nas horas vagas e entusiasta de tecnologia e jogos retrô<br>
+  🎸 Músico nas horas vagas,entusiasta de tecnologia e jogos retrô<br>
 </p>
 
 ---
