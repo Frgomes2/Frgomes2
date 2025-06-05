@@ -36,9 +36,6 @@
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Frgomes2&theme=dark&locale=pt_BR" alt="GitHub Streak" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Frgomes2&show_icons=true&theme=radical&locale=pt-BR" width="410" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frgomes2&layout=compact&theme=radical&card_width=410&locale=pt-BR" width="424" />
 </p>
