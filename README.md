@@ -42,7 +42,7 @@
 
 ### 📫 Onde me encontrar
 
-- 🌐 Portfólio: [frgomes.com.br](https://frgomes.com.br/) *(Fora do ar No momento)*
+- 🌐 Portfólio: [frgomes.com.br](https://frgomes.com.br/) 
 - 💼 LinkedIn: [linkedin.com/in/flavioraphael](https://www.linkedin.com/in/flavio-raphael-gomes-405847182/))
 - 📬 Email: flavio.raphael@msn.com.br
 
