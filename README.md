@@ -47,7 +47,3 @@
 - 📬 Email: flavio.raphael@msn.com.br
 
 ---
-
-<p align="center">
-  🚀 Desde 2021 desenvolvendo com paixão — Rumo ao topo em 2025!
-</p>
